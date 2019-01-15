@@ -1,9 +1,5 @@
 
-# MXNet2Caffe: Convert MXNet model to Caffe model
-> version: 1.0.0  
-> Author: zhangmingming  
-> E-mail: zhangmingming@kuandeng.com  
-> Date: 2019-01-08 
+# MXNet2Caffe: Convert MXNet model to Caffe model 
 
 ## UPDATE
 1. 2019-01-08: Clone from https://github.com/GarrickLin/MXNet2Caffe.git
